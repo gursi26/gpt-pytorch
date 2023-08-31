@@ -1,8 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,macos,osx,vim,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,macos,osx,vim,visualstudiocode
 
-# weight files
+# weight files and dataset
 *.pth
+dataset/
 
 ### macOS ###
 # General
